@@ -27,6 +27,4 @@ Please add a .env file at the root of the project. This must include the followi
 
 ## Other bits
 
-### Client
 
-The client project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
